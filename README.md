@@ -34,14 +34,13 @@ npm run test
 
 👤 **Manish kumar(mannish01)**
 
-* Website: https://mannish.netlify.app/
-* Twitter: [@mannishx01](https://twitter.com/mannishx01)
-* Github: [@mannish01](https://github.com/mannish01)
-* LinkedIn: [@mannish01](https://linkedin.com/in/mannish01)
+- Website: https://mannish.netlify.app/
+- Twitter: [@mannishx01](https://twitter.com/mannishx01)
+- Github: [@mannish01](https://github.com/mannish01)
+- LinkedIn: [@mannish01](https://linkedin.com/in/mannish01)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+---
